@@ -1,0 +1,14 @@
+GCC Toolchain for ZenSERIES Kernels
+-----------------------------------
+Readme won't be updated frequently, but these are pretty constant.
+- Just a stable build of GCC
+- Built with crosstool
+- Default crosstool-ng patches and optimizations applied
+- Built with VFP intrinsics, armv7 tune
+- Gentoo patches applied to the binutils/mpfr/gmp/etc. used to build GCC and GCC itself
+
+If you have any other questions, feel free to contact
+Android Developer Alliance or bbedward.
+
+Don't be a tool like knzo "metal apocolypse i'm probably 10 years old"
+
